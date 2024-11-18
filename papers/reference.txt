@@ -1,0 +1,13 @@
+
+
+# PyBoost
+
+- https://github.com/sb-ai-lab/Py-Boost
+
+# GPU Libraries
+- https://docs.hpc.sjtu.edu.cn/app/compilers_and_languages/cuda.html
+
+
+# More Papers
+
+- https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers
